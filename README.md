@@ -4,9 +4,10 @@
 ## Setup catjs
 
 1.	Download and install node.js http://nodejs.org/
-2.	Open the cmd
-3.	cd to : {select.path}/catjs-jqm-seed
-4.	To install catjs, command : npm install -g catjs (about 2min)
+2.	Open the cmd : 
+	
+	cd {select.path}/catjs-jqm-seed
+	npm install -g catjs
 
 ## Create a new cat project
 
@@ -26,6 +27,7 @@ In the cmd write the command:
 ## Build test deployment
 
 As we told before in our JQM example code the cat automation is ready for building.
+
 1. On the cmd : cd to cat-project
 2. To build the project and start the server: 
 In the cmd : 
