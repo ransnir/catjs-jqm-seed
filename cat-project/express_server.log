@@ -1,0 +1,60 @@
+2014-05-27T11:32:37.766Z - info: [90mGET / [32m200 [90m4ms - 6.37kb[0m
+
+2014-05-27T11:32:37.822Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m4ms - 9.36kb[0m
+
+2014-05-27T11:32:37.822Z - info: [90mGET /cat/lib/cat.css [32m200 [90m4ms - 86.47kb[0m
+
+2014-05-27T11:32:37.823Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m6ms - 188.74kb[0m
+
+2014-05-27T11:32:37.823Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m7ms - 216.05kb[0m
+
+2014-05-27T11:32:37.826Z - info: [90mGET /js/jquery.js [32m200 [90m9ms - 266.8kb[0m
+
+2014-05-27T11:32:37.858Z - info: [90mGET /cat/lib/cat.js [32m200 [90m41ms - 282.95kb[0m
+
+2014-05-27T11:32:37.956Z - info: [90mGET /cat/config/cat.json [32m200 [90m5ms - 1.28kb[0m
+
+2014-05-27T11:32:38.001Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m2ms[0m
+
+2014-05-27T11:32:38.062Z - info: [90mGET /js/jquery.mobile-1.4.0.min.map [33m404 [90m1ms[0m
+
+2014-05-27T11:33:07.956Z - info: [90mGET / [32m200 [90m2ms - 6.37kb[0m
+
+2014-05-27T11:33:08.014Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m9ms - 188.74kb[0m
+
+2014-05-27T11:33:08.015Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m11ms - 216.05kb[0m
+
+2014-05-27T11:33:08.016Z - info: [90mGET /js/jquery.js [32m200 [90m11ms - 266.8kb[0m
+
+2014-05-27T11:33:08.018Z - info: [90mGET /cat/lib/cat.css [32m200 [90m8ms - 86.47kb[0m
+
+2014-05-27T11:33:08.020Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m9ms - 9.36kb[0m
+
+2014-05-27T11:33:08.063Z - info: [90mGET /cat/lib/cat.js [32m200 [90m55ms - 282.95kb[0m
+
+2014-05-27T11:33:08.146Z - info: [90mGET /cat/config/cat.json [32m200 [90m5ms - 1.28kb[0m
+
+2014-05-27T11:33:08.182Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m1ms[0m
+
+2014-05-27T11:33:08.254Z - info: [90mGET /js/jquery.mobile-1.4.0.min.map [33m404 [90m0ms[0m
+
+2014-05-27T11:42:19.007Z - info: [90mGET / [32m200 [90m4ms - 10.19kb[0m
+
+2014-05-27T11:42:19.062Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m3ms - 18.46kb[0m
+
+2014-05-27T11:42:19.063Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m5ms - 188.74kb[0m
+
+2014-05-27T11:42:19.063Z - info: [90mGET /cat/lib/cat.css [32m200 [90m4ms - 86.47kb[0m
+
+2014-05-27T11:42:19.073Z - info: [90mGET /js/jquery.js [32m200 [90m15ms - 266.8kb[0m
+
+2014-05-27T11:42:19.074Z - info: [90mGET /cat/lib/cat.js [32m200 [90m15ms - 282.95kb[0m
+
+2014-05-27T11:42:19.084Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m28ms - 216.05kb[0m
+
+2014-05-27T11:42:19.225Z - info: [90mGET /cat/config/cat.json [32m200 [90m1ms - 1.28kb[0m
+
+2014-05-27T11:42:19.268Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m2ms[0m
+
+2014-05-27T11:42:19.345Z - info: [90mGET /js/jquery.mobile-1.4.0.min.map [33m404 [90m1ms[0m
+

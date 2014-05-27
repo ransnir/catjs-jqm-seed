@@ -1,0 +1,627 @@
+{
+  "files": {
+    "C:/Users/snirr/workspace/catjs_example/cat-project/target/catexample/index.html": {
+      "catImport": {
+        "name": ["catImport"],
+        "import": ["/cat/lib/cat.js", "/cat/lib/cat.css", "/cat/lib/cat.src.js"],
+        "file": "C:/Users/snirr/workspace/catjs_example/cat-project/target/catexample/index.html",
+        "scrapinfo": {
+          "start": {
+            "line": 11,
+            "col": 2
+          },
+          "end": {
+            "line": 19,
+            "col": 4
+          }
+        },
+        "commentinfo": {
+          "start": {
+            "line": 10,
+            "col": 1
+          },
+          "end": {
+            "line": 20,
+            "col": 7
+          }
+        },
+        "single": {
+          "name": true,
+          "import": false,
+          "file": true,
+          "scrapinfo": true,
+          "commentinfo": true,
+          "single": true,
+          "singleton": true,
+          "arguments": true,
+          "auto": true,
+          "id": true,
+          "$type": true
+        },
+        "singleton": {
+          "name": -1,
+          "import": -1,
+          "file": -1,
+          "scrapinfo": -1,
+          "commentinfo": -1,
+          "single": -1,
+          "singleton": -1,
+          "arguments": -1,
+          "auto": -1,
+          "id": -1,
+          "$type": -1
+        },
+        "arguments": [],
+        "auto": false,
+        "id": "scrap_1",
+        "$type": "html",
+        "injectinfo": {
+          "start": {
+            "line": 20,
+            "col": 7
+          },
+          "end": {
+            "line": 20,
+            "col": 176
+          }
+        }
+      },
+      "setUsername": {
+        "name": ["setUsername"],
+        "embed": ["true"],
+        "jqm": ["setText(\"#username\", \"catjs\");"],
+        "file": "C:/Users/snirr/workspace/catjs_example/cat-project/target/catexample/index.html",
+        "scrapinfo": {
+          "start": {
+            "line": 31,
+            "col": 3
+          },
+          "end": {
+            "line": 35,
+            "col": 5
+          }
+        },
+        "commentinfo": {
+          "start": {
+            "line": 30,
+            "col": 8
+          },
+          "end": {
+            "line": 36,
+            "col": 11
+          }
+        },
+        "single": {
+          "name": true,
+          "embed": true,
+          "jqm": false,
+          "file": true,
+          "scrapinfo": true,
+          "commentinfo": true,
+          "single": true,
+          "singleton": true,
+          "arguments": true,
+          "auto": true,
+          "id": true,
+          "$type": true
+        },
+        "singleton": {
+          "name": -1,
+          "embed": -1,
+          "jqm": -1,
+          "file": -1,
+          "scrapinfo": -1,
+          "commentinfo": -1,
+          "single": -1,
+          "singleton": -1,
+          "arguments": -1,
+          "auto": -1,
+          "id": -1,
+          "$type": -1
+        },
+        "arguments": [],
+        "auto": true,
+        "id": "scrap_2",
+        "$type": "html",
+        "pkgName": "C:.Users.snirr.workspace.catjs_example.cat-project.target.catexample.index.html.setUsername",
+        "injectinfo": {
+          "start": {
+            "line": 36,
+            "col": 11
+          },
+          "end": {
+            "line": 36,
+            "col": 873
+          }
+        }
+      },
+      "setEmail": {
+        "name": ["setEmail"],
+        "embed": ["true"],
+        "jqm": ["setText(\"#email\", \"catjsteam@gmail.com\");"],
+        "file": "C:/Users/snirr/workspace/catjs_example/cat-project/target/catexample/index.html",
+        "scrapinfo": {
+          "start": {
+            "line": 44,
+            "col": 12
+          },
+          "end": {
+            "line": 48,
+            "col": 5
+          }
+        },
+        "commentinfo": {
+          "start": {
+            "line": 43,
+            "col": 8
+          },
+          "end": {
+            "line": 49,
+            "col": 5
+          }
+        },
+        "single": {
+          "name": true,
+          "embed": true,
+          "jqm": false,
+          "file": true,
+          "scrapinfo": true,
+          "commentinfo": true,
+          "single": true,
+          "singleton": true,
+          "arguments": true,
+          "auto": true,
+          "id": true,
+          "$type": true
+        },
+        "singleton": {
+          "name": -1,
+          "embed": -1,
+          "jqm": -1,
+          "file": -1,
+          "scrapinfo": -1,
+          "commentinfo": -1,
+          "single": -1,
+          "singleton": -1,
+          "arguments": -1,
+          "auto": -1,
+          "id": -1,
+          "$type": -1
+        },
+        "arguments": [],
+        "auto": true,
+        "id": "scrap_3",
+        "$type": "html",
+        "pkgName": "C:.Users.snirr.workspace.catjs_example.cat-project.target.catexample.index.html.setEmail",
+        "injectinfo": {
+          "start": {
+            "line": 49,
+            "col": 5
+          },
+          "end": {
+            "line": 49,
+            "col": 872
+          }
+        }
+      },
+      "setPassword": {
+        "name": ["setPassword"],
+        "embed": ["true"],
+        "jqm": ["setText(\"#password\", \"123456789\");"],
+        "file": "C:/Users/snirr/workspace/catjs_example/cat-project/target/catexample/index.html",
+        "scrapinfo": {
+          "start": {
+            "line": 56,
+            "col": 12
+          },
+          "end": {
+            "line": 60,
+            "col": 14
+          }
+        },
+        "commentinfo": {
+          "start": {
+            "line": 55,
+            "col": 8
+          },
+          "end": {
+            "line": 61,
+            "col": 11
+          }
+        },
+        "single": {
+          "name": true,
+          "embed": true,
+          "jqm": false,
+          "file": true,
+          "scrapinfo": true,
+          "commentinfo": true,
+          "single": true,
+          "singleton": true,
+          "arguments": true,
+          "auto": true,
+          "id": true,
+          "$type": true
+        },
+        "singleton": {
+          "name": -1,
+          "embed": -1,
+          "jqm": -1,
+          "file": -1,
+          "scrapinfo": -1,
+          "commentinfo": -1,
+          "single": -1,
+          "singleton": -1,
+          "arguments": -1,
+          "auto": -1,
+          "id": -1,
+          "$type": -1
+        },
+        "arguments": [],
+        "auto": true,
+        "id": "scrap_4",
+        "$type": "html",
+        "pkgName": "C:.Users.snirr.workspace.catjs_example.cat-project.target.catexample.index.html.setPassword",
+        "injectinfo": {
+          "start": {
+            "line": 61,
+            "col": 11
+          },
+          "end": {
+            "line": 61,
+            "col": 879
+          }
+        }
+      },
+      "setRepeatPassword": {
+        "name": ["setRepeatPassword"],
+        "embed": ["true"],
+        "jqm": ["setText(\"#repeatpassword\", \"123456789\");"],
+        "file": "C:/Users/snirr/workspace/catjs_example/cat-project/target/catexample/index.html",
+        "scrapinfo": {
+          "start": {
+            "line": 68,
+            "col": 3
+          },
+          "end": {
+            "line": 72,
+            "col": 14
+          }
+        },
+        "commentinfo": {
+          "start": {
+            "line": 67,
+            "col": 8
+          },
+          "end": {
+            "line": 73,
+            "col": 11
+          }
+        },
+        "single": {
+          "name": true,
+          "embed": true,
+          "jqm": false,
+          "file": true,
+          "scrapinfo": true,
+          "commentinfo": true,
+          "single": true,
+          "singleton": true,
+          "arguments": true,
+          "auto": true,
+          "id": true,
+          "$type": true
+        },
+        "singleton": {
+          "name": -1,
+          "embed": -1,
+          "jqm": -1,
+          "file": -1,
+          "scrapinfo": -1,
+          "commentinfo": -1,
+          "single": -1,
+          "singleton": -1,
+          "arguments": -1,
+          "auto": -1,
+          "id": -1,
+          "$type": -1
+        },
+        "arguments": [],
+        "auto": true,
+        "id": "scrap_5",
+        "$type": "html",
+        "pkgName": "C:.Users.snirr.workspace.catjs_example.cat-project.target.catexample.index.html.setRepeatPassword",
+        "injectinfo": {
+          "start": {
+            "line": 73,
+            "col": 11
+          },
+          "end": {
+            "line": 73,
+            "col": 896
+          }
+        }
+      },
+      "setmobileweb": {
+        "name": ["setmobileweb"],
+        "embed": ["true"],
+        "jqm": ["setCheck(\"#mobileweb\");"],
+        "file": "C:/Users/snirr/workspace/catjs_example/cat-project/target/catexample/index.html",
+        "scrapinfo": {
+          "start": {
+            "line": 80,
+            "col": 12
+          },
+          "end": {
+            "line": 84,
+            "col": 5
+          }
+        },
+        "commentinfo": {
+          "start": {
+            "line": 79,
+            "col": 2
+          },
+          "end": {
+            "line": 85,
+            "col": 5
+          }
+        },
+        "single": {
+          "name": true,
+          "embed": true,
+          "jqm": false,
+          "file": true,
+          "scrapinfo": true,
+          "commentinfo": true,
+          "single": true,
+          "singleton": true,
+          "arguments": true,
+          "auto": true,
+          "id": true,
+          "$type": true
+        },
+        "singleton": {
+          "name": -1,
+          "embed": -1,
+          "jqm": -1,
+          "file": -1,
+          "scrapinfo": -1,
+          "commentinfo": -1,
+          "single": -1,
+          "singleton": -1,
+          "arguments": -1,
+          "auto": -1,
+          "id": -1,
+          "$type": -1
+        },
+        "arguments": [],
+        "auto": true,
+        "id": "scrap_6",
+        "$type": "html",
+        "pkgName": "C:.Users.snirr.workspace.catjs_example.cat-project.target.catexample.index.html.setmobileweb",
+        "injectinfo": {
+          "start": {
+            "line": 85,
+            "col": 5
+          },
+          "end": {
+            "line": 85,
+            "col": 860
+          }
+        }
+      },
+      "setweb": {
+        "name": ["setweb"],
+        "embed": ["true"],
+        "jqm": ["setCheck(\"#web\");"],
+        "file": "C:/Users/snirr/workspace/catjs_example/cat-project/target/catexample/index.html",
+        "scrapinfo": {
+          "start": {
+            "line": 88,
+            "col": 12
+          },
+          "end": {
+            "line": 92,
+            "col": 5
+          }
+        },
+        "commentinfo": {
+          "start": {
+            "line": 87,
+            "col": 2
+          },
+          "end": {
+            "line": 93,
+            "col": 5
+          }
+        },
+        "single": {
+          "name": true,
+          "embed": true,
+          "jqm": false,
+          "file": true,
+          "scrapinfo": true,
+          "commentinfo": true,
+          "single": true,
+          "singleton": true,
+          "arguments": true,
+          "auto": true,
+          "id": true,
+          "$type": true
+        },
+        "singleton": {
+          "name": -1,
+          "embed": -1,
+          "jqm": -1,
+          "file": -1,
+          "scrapinfo": -1,
+          "commentinfo": -1,
+          "single": -1,
+          "singleton": -1,
+          "arguments": -1,
+          "auto": -1,
+          "id": -1,
+          "$type": -1
+        },
+        "arguments": [],
+        "auto": true,
+        "id": "scrap_7",
+        "$type": "html",
+        "pkgName": "C:.Users.snirr.workspace.catjs_example.cat-project.target.catexample.index.html.setweb",
+        "injectinfo": {
+          "start": {
+            "line": 93,
+            "col": 5
+          },
+          "end": {
+            "line": 93,
+            "col": 842
+          }
+        }
+      },
+      "slider90": {
+        "name": ["slider90"],
+        "embed": ["true"],
+        "jqm": ["slide(\"#usetesting\" , 90);"],
+        "file": "C:/Users/snirr/workspace/catjs_example/cat-project/target/catexample/index.html",
+        "scrapinfo": {
+          "start": {
+            "line": 111,
+            "col": 3
+          },
+          "end": {
+            "line": 115,
+            "col": 5
+          }
+        },
+        "commentinfo": {
+          "start": {
+            "line": 110,
+            "col": 2
+          },
+          "end": {
+            "line": 116,
+            "col": 5
+          }
+        },
+        "single": {
+          "name": true,
+          "embed": true,
+          "jqm": false,
+          "file": true,
+          "scrapinfo": true,
+          "commentinfo": true,
+          "single": true,
+          "singleton": true,
+          "arguments": true,
+          "auto": true,
+          "id": true,
+          "$type": true
+        },
+        "singleton": {
+          "name": -1,
+          "embed": -1,
+          "jqm": -1,
+          "file": -1,
+          "scrapinfo": -1,
+          "commentinfo": -1,
+          "single": -1,
+          "singleton": -1,
+          "arguments": -1,
+          "auto": -1,
+          "id": -1,
+          "$type": -1
+        },
+        "arguments": [],
+        "auto": true,
+        "id": "scrap_8",
+        "$type": "html",
+        "pkgName": "C:.Users.snirr.workspace.catjs_example.cat-project.target.catexample.index.html.slider90",
+        "injectinfo": {
+          "start": {
+            "line": 116,
+            "col": 5
+          },
+          "end": {
+            "line": 116,
+            "col": 858
+          }
+        }
+      },
+      "clickSignup": {
+        "name": ["clickSignup"],
+        "embed": ["true"],
+        "jqm": ["clickButton(\"#signup\");"],
+        "file": "C:/Users/snirr/workspace/catjs_example/cat-project/target/catexample/index.html",
+        "scrapinfo": {
+          "start": {
+            "line": 123,
+            "col": 3
+          },
+          "end": {
+            "line": 127,
+            "col": 5
+          }
+        },
+        "commentinfo": {
+          "start": {
+            "line": 122,
+            "col": 2
+          },
+          "end": {
+            "line": 128,
+            "col": 5
+          }
+        },
+        "single": {
+          "name": true,
+          "embed": true,
+          "jqm": false,
+          "file": true,
+          "scrapinfo": true,
+          "commentinfo": true,
+          "single": true,
+          "singleton": true,
+          "arguments": true,
+          "auto": true,
+          "id": true,
+          "$type": true
+        },
+        "singleton": {
+          "name": -1,
+          "embed": -1,
+          "jqm": -1,
+          "file": -1,
+          "scrapinfo": -1,
+          "commentinfo": -1,
+          "single": -1,
+          "singleton": -1,
+          "arguments": -1,
+          "auto": -1,
+          "id": -1,
+          "$type": -1
+        },
+        "arguments": [],
+        "auto": true,
+        "id": "scrap_9",
+        "$type": "html",
+        "pkgName": "C:.Users.snirr.workspace.catjs_example.cat-project.target.catexample.index.html.clickSignup",
+        "injectinfo": {
+          "start": {
+            "line": 128,
+            "col": 5
+          },
+          "end": {
+            "line": 128,
+            "col": 861
+          }
+        }
+      }
+    }
+  },
+  "project": {
+    "basepath": "C:\\Users\\snirr\\workspace\\catjs_example\\cat-project\\target\\",
+    "resources": []
+  }
+}
