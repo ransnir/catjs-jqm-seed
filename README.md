@@ -30,7 +30,7 @@ As we told before in our JQM example code the cat automation is ready for buildi
 
 1. On the cmd : cd to cat-project
 2. To build the project and start the server: 
-In the cmd : 
 	
 	catcli -cbs
+	
 3. Now open you browser on http://localhost:8089/ and see the result
