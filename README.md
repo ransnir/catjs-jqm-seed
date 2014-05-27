@@ -1,9 +1,9 @@
 # Getting started with catjs & jQueryMobile
 
-CAT CORE is a new open source automation framework for mobile-web applications testing
-Check out the catjs page[http://catjsteam.github.io/](http://catjsteam.github.io/)
-Or try [npm page](https://www.npmjs.org/package/catjs) and [github page](https://github.com/catjsteam/catjs)
-You see [full demo](http://catjsteam.github.io/examples/jqm/index.html) on jqm-kitchen-sink
+...**CAT CORE is a new open source automation framework for mobile-web applications testing**...
+...Check out the catjs page[http://catjsteam.github.io/](http://catjsteam.github.io/)...
+...Or try [npm page](https://www.npmjs.org/package/catjs) and [github page](https://github.com/catjsteam/catjs)...
+...You see [full demo](http://catjsteam.github.io/examples/jqm/index.html) on jqm-kitchen-sink...
 
 ## Setup catjs
 
