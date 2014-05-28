@@ -1,5 +1,9 @@
 # Getting started with catjs & jQueryMobile
 
+This project is an application skeleton for a typical [catjs](http://catjsteam.github.io/) with [jQuery Mobile](http://jquerymobile.com/) mobile-web app.  
+The seed contains a sample JQM application with catjs annotation (called scraps). catjs will generate a new test project and translate those scraps to scripts within your code.
+After building your project, catjs will emulate a simple user-flow in the application. catjs will fill the input fields, click, slide and more.  
+  
 **catjs is a new open source automation framework for mobile-web applications testing**  
 Check out the catjs page [http://catjsteam.github.io/](http://catjsteam.github.io/)  
 Or try [npm page](https://www.npmjs.org/package/catjs) and [github page](https://github.com/catjsteam/catjs)  
@@ -66,6 +70,7 @@ return to **Build test deployment**
 
 ## See catjs in action
 
+catjs will fill the input fields, slide, check and click the signup button  
 Before  
 ![alt text](https://raw.githubusercontent.com/ransnir/catjs-jqm-seed/master/index.png "index.html")  
 catjs in action  
