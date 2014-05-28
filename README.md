@@ -1,7 +1,7 @@
 # Getting started with catjs & jQueryMobile
 
 **catjs is a new open source automation framework for mobile-web applications testing**  
-Check out the catjs page[http://catjsteam.github.io/](http://catjsteam.github.io/)  
+Check out the catjs page [http://catjsteam.github.io/](http://catjsteam.github.io/)  
 Or try [npm page](https://www.npmjs.org/package/catjs) and [github page](https://github.com/catjsteam/catjs)  
 You see [full demo](http://catjsteam.github.io/examples/jqm/index.html) on jqm-kitchen-sink  
 
@@ -62,3 +62,9 @@ Open the cmd:
 	prompt: Enter your project's (application) path:  ./../app
 
 return to **Build test deployment**
+
+Before
+![alt text](https://github.com/ransnir/catjs-jqm-seed/index.png "index.html")
+catjs in action
+![alt text](https://github.com/ransnir/catjs-jqm-seed/cat_in_action.png "catjs in action")
+
