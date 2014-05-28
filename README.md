@@ -63,6 +63,9 @@ Open the cmd:
 
 return to **Build test deployment**
 
+
+## See catjs in action
+
 Before  
 ![alt text](https://raw.githubusercontent.com/ransnir/catjs-jqm-seed/master/index.png "index.html")  
 catjs in action  
