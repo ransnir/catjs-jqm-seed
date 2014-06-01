@@ -9,6 +9,8 @@ Check out the catjs page [http://catjsteam.github.io/](http://catjsteam.github.i
 Or try [npm page](https://www.npmjs.org/package/catjs) and [github page](https://github.com/catjsteam/catjs)  
 You see [full demo](http://catjsteam.github.io/examples/jqm/index.html) on jqm-kitchen-sink  
 
+#### Check our [demo](http://ransnir.github.io/cat-project/target/catexample/index.html)
+
 ## Setup your environment
 
 Download and open the zip or use git clone.  
