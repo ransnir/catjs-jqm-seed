@@ -32,6 +32,7 @@
 				@@name setUsername
                 @@embed true
                 @@jqm setText("#username", "catjs");
+                @@assert ok($('#username').val()=='catjs','email match to catjs')
 			]@
         -->
 
@@ -45,6 +46,7 @@
 				@@name setEmail
                 @@embed true
                 @@jqm setText("#email", "catjsteam@gmail.com");
+                @@assert ok($('#email').val()=='catjsteam@gmail.com','email match')
 			]@
 		-->
         <div>
@@ -57,6 +59,7 @@
 				@@name setPassword
                 @@embed true
                 @@jqm setText("#password", "123456789");
+                @@assert ok($('#password').val()=='123456789','password match')
             ]@
         -->
         <div>
@@ -69,6 +72,7 @@
 				@@name setRepeatPassword
                 @@embed true
                 @@jqm setText("#repeatpassword", "123456789");
+                @@assert ok($('#repeatpassword').val()=='123456789','repeat password match')
             ]@
         -->
         <div>
@@ -81,6 +85,7 @@
                 @@name setmobileweb
                 @@embed true
                 @@jqm setCheck("#mobileweb");
+                @@assert ok($('#mobileweb').is(':checked'),'mobileweb is checked')
 			]@
 		-->
 		
@@ -89,6 +94,7 @@
                 @@name setweb
                 @@embed true
                 @@jqm setCheck("#web");
+                @@assert ok($('#web').is(':checked'),'web is checked')
 			]@
 		-->
         <div>
@@ -112,6 +118,7 @@
 				@@name slider90
 				@@embed true
 				@@jqm slide("#usetesting" , 90);
+				@@assert ok($('#usetesting').val()=='90','slide value is 90')
 			]@
 		-->
         <div>
