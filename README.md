@@ -32,10 +32,16 @@ Open the cmd:
 
 ### Install catjs
 
-Open the cmd : 
+Windows : 
+	
+	cd {select.path}/catjs-jqm-seed
+	npm install -g catjs
+	
+mac / linux : 
 	
 	cd {select.path}/catjs-jqm-seed
 	sudo npm install -g catjs
+
 
 
 ## Build test deployment
