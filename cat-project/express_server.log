@@ -1,146 +1,34 @@
-2014-05-27T11:32:37.766Z - info: [90mGET / [32m200 [90m4ms - 6.37kb[0m
+2014-06-08T05:57:22.775Z - info: [90mGET / [32m200 [90m4ms - 11.38kb[0m
 
-2014-05-27T11:32:37.822Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m4ms - 9.36kb[0m
+2014-06-08T05:57:22.838Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m6ms - 216.05kb[0m
 
-2014-05-27T11:32:37.822Z - info: [90mGET /cat/lib/cat.css [32m200 [90m4ms - 86.47kb[0m
+2014-06-08T05:57:22.846Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m1ms - 188.74kb[0m
 
-2014-05-27T11:32:37.823Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m6ms - 188.74kb[0m
+2014-06-08T05:57:22.865Z - info: [90mGET /js/jquery.js [32m200 [90m26ms - 266.8kb[0m
 
-2014-05-27T11:32:37.823Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m7ms - 216.05kb[0m
+2014-06-08T05:57:22.869Z - info: [90mGET /cat/lib/cat.css [32m200 [90m1ms - 86.47kb[0m
 
-2014-05-27T11:32:37.826Z - info: [90mGET /js/jquery.js [32m200 [90m9ms - 266.8kb[0m
+2014-06-08T05:57:22.919Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m2ms - 35.74kb[0m
 
-2014-05-27T11:32:37.858Z - info: [90mGET /cat/lib/cat.js [32m200 [90m41ms - 282.95kb[0m
+2014-06-08T05:57:22.968Z - info: [90mGET /cat/lib/cat.js [32m200 [90m86ms - 288.03kb[0m
 
-2014-05-27T11:32:37.956Z - info: [90mGET /cat/config/cat.json [32m200 [90m5ms - 1.28kb[0m
+2014-06-08T05:57:23.129Z - info: [90mGET /cat/config/cat.json [32m200 [90m1ms - 1.28kb[0m
 
-2014-05-27T11:32:38.001Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m2ms[0m
+2014-06-08T05:57:23.161Z - info: [90mGET /assert?testName=setUsername&scenario=undefined&message=[CAT]%20Test%20failed,%20exception:%20AssertionError:%20email%20match%20to%20catjs:%20expected%20false%20to%20be%20truthy&error=undefined&status=failure&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=612aaaaf-5066-f03d-0887-ef2353a32870&cache=Sun,%2008%20Jun%202014%2005:57:23%20GMT [32m200 [90m2ms - 166b[0m
 
-2014-05-27T11:32:38.062Z - info: [90mGET /js/jquery.mobile-1.4.0.min.map [33m404 [90m1ms[0m
+2014-06-08T05:57:23.862Z - info: [90mGET /assert?testName=setEmail&scenario=undefined&message=[CAT]%20Test%20failed,%20exception:%20AssertionError:%20email%20match:%20expected%20false%20to%20be%20truthy&error=undefined&status=failure&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=612aaaaf-5066-f03d-0887-ef2353a32870&cache=Sun,%2008%20Jun%202014%2005:57:23%20GMT [32m200 [90m1ms - 154b[0m
 
-2014-05-27T11:33:07.956Z - info: [90mGET / [32m200 [90m2ms - 6.37kb[0m
+2014-06-08T05:57:25.274Z - info: [90mGET /assert?testName=setPassword&scenario=undefined&message=[CAT]%20Test%20failed,%20exception:%20AssertionError:%20password%20match:%20expected%20false%20to%20be%20truthy&error=undefined&status=failure&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=612aaaaf-5066-f03d-0887-ef2353a32870&cache=Sun,%2008%20Jun%202014%2005:57:23%20GMT [32m200 [90m1ms - 160b[0m
 
-2014-05-27T11:33:08.014Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m9ms - 188.74kb[0m
+2014-06-08T05:57:25.305Z - info: [90mGET /assert?testName=setRepeatPassword&scenario=undefined&message=[CAT]%20Test%20failed,%20exception:%20AssertionError:%20repeat%20password%20match:%20expected%20false%20to%20be%20truthy&error=undefined&status=failure&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=612aaaaf-5066-f03d-0887-ef2353a32870&cache=Sun,%2008%20Jun%202014%2005:57:25%20GMT [32m200 [90m0ms - 173b[0m
 
-2014-05-27T11:33:08.015Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m11ms - 216.05kb[0m
+2014-06-08T05:57:25.387Z - info: [90mGET /assert?testName=setmobileweb&scenario=undefined&message=[CAT]%20Test%20failed,%20exception:%20AssertionError:%20mobileweb%20is%20checked:%20expected%20false%20to%20be%20truthy&error=undefined&status=failure&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=612aaaaf-5066-f03d-0887-ef2353a32870&cache=Sun,%2008%20Jun%202014%2005:57:25%20GMT [32m200 [90m1ms - 167b[0m
 
-2014-05-27T11:33:08.016Z - info: [90mGET /js/jquery.js [32m200 [90m11ms - 266.8kb[0m
+2014-06-08T05:57:25.460Z - info: [90mGET /assert?testName=setweb&scenario=undefined&message=[CAT]%20Test%20failed,%20exception:%20AssertionError:%20web%20is%20checked:%20expected%20false%20to%20be%20truthy&error=undefined&status=failure&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=612aaaaf-5066-f03d-0887-ef2353a32870&cache=Sun,%2008%20Jun%202014%2005:57:25%20GMT [32m200 [90m1ms - 155b[0m
 
-2014-05-27T11:33:08.018Z - info: [90mGET /cat/lib/cat.css [32m200 [90m8ms - 86.47kb[0m
+2014-06-08T05:57:25.624Z - info: [90mGET /assert?testName=slider90&scenario=undefined&message=[CAT]%20Test%20failed,%20exception:%20AssertionError:%20slide%20value%20is%2090:%20expected%20false%20to%20be%20truthy&error=undefined&status=failure&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=612aaaaf-5066-f03d-0887-ef2353a32870&cache=Sun,%2008%20Jun%202014%2005:57:25%20GMT [32m200 [90m1ms - 160b[0m
 
-2014-05-27T11:33:08.020Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m9ms - 9.36kb[0m
+2014-06-08T05:57:25.713Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m1ms[0m
 
-2014-05-27T11:33:08.063Z - info: [90mGET /cat/lib/cat.js [32m200 [90m55ms - 282.95kb[0m
-
-2014-05-27T11:33:08.146Z - info: [90mGET /cat/config/cat.json [32m200 [90m5ms - 1.28kb[0m
-
-2014-05-27T11:33:08.182Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m1ms[0m
-
-2014-05-27T11:33:08.254Z - info: [90mGET /js/jquery.mobile-1.4.0.min.map [33m404 [90m0ms[0m
-
-2014-05-27T11:42:19.007Z - info: [90mGET / [32m200 [90m4ms - 10.19kb[0m
-
-2014-05-27T11:42:19.062Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m3ms - 18.46kb[0m
-
-2014-05-27T11:42:19.063Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m5ms - 188.74kb[0m
-
-2014-05-27T11:42:19.063Z - info: [90mGET /cat/lib/cat.css [32m200 [90m4ms - 86.47kb[0m
-
-2014-05-27T11:42:19.073Z - info: [90mGET /js/jquery.js [32m200 [90m15ms - 266.8kb[0m
-
-2014-05-27T11:42:19.074Z - info: [90mGET /cat/lib/cat.js [32m200 [90m15ms - 282.95kb[0m
-
-2014-05-27T11:42:19.084Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m28ms - 216.05kb[0m
-
-2014-05-27T11:42:19.225Z - info: [90mGET /cat/config/cat.json [32m200 [90m1ms - 1.28kb[0m
-
-2014-05-27T11:42:19.268Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m2ms[0m
-
-2014-05-27T11:42:19.345Z - info: [90mGET /js/jquery.mobile-1.4.0.min.map [33m404 [90m1ms[0m
-
-2014-05-28T12:00:54.052Z - info: [90mGET / [32m200 [90m5ms - 10.19kb[0m
-
-2014-05-28T12:00:54.097Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m5ms - 216.05kb[0m
-
-2014-05-28T12:00:54.108Z - info: [90mGET /js/jquery.js [32m200 [90m12ms - 266.8kb[0m
-
-2014-05-28T12:00:54.110Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m2ms - 188.74kb[0m
-
-2014-05-28T12:00:54.129Z - info: [90mGET /cat/lib/cat.css [32m200 [90m3ms - 86.47kb[0m
-
-2014-05-28T12:00:54.140Z - info: [90mGET /cat/lib/cat.js [32m200 [90m16ms - 282.95kb[0m
-
-2014-05-28T12:00:54.142Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m2ms - 18.46kb[0m
-
-2014-05-28T12:00:54.246Z - info: [90mGET /cat/config/cat.json [32m200 [90m1ms - 1.51kb[0m
-
-2014-05-28T12:00:54.305Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m2ms[0m
-
-2014-05-28T12:00:56.010Z - info: [90mGET /favicon.ico [33m404 [90m0ms[0m
-
-2014-05-28T12:01:28.577Z - info: [90mGET / [32m200 [90m5ms - 10.19kb[0m
-
-2014-05-28T12:01:28.625Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m5ms - 18.46kb[0m
-
-2014-05-28T12:01:28.628Z - info: [90mGET /cat/lib/cat.css [32m200 [90m9ms - 86.47kb[0m
-
-2014-05-28T12:01:28.629Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m10ms - 188.74kb[0m
-
-2014-05-28T12:01:28.630Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m13ms - 216.05kb[0m
-
-2014-05-28T12:01:28.637Z - info: [90mGET /js/jquery.js [32m200 [90m19ms - 266.8kb[0m
-
-2014-05-28T12:01:28.638Z - info: [90mGET /cat/lib/cat.js [32m200 [90m19ms - 282.95kb[0m
-
-2014-05-28T12:01:28.761Z - info: [90mGET /cat/config/cat.json [32m200 [90m1ms - 1.51kb[0m
-
-2014-05-28T12:01:28.801Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m1ms[0m
-
-2014-05-28T12:01:46.397Z - info: [90mGET /assert?testName=End&scenario=general&message=End&error=&status=End&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=30e81349-9b4c-f12c-c0f8-2936cd44ae41&cache=Wed,%2028%20May%202014%2012:01:46%20GMT [32m200 [90m2ms - 62b[0m
-
-2014-05-28T12:02:41.964Z - info: [90mGET /js/jquery.mobile-1.4.0.min.map [33m404 [90m2ms[0m
-
-2014-05-28T12:02:50.417Z - info: [90mGET / [32m200 [90m2ms - 10.19kb[0m
-
-2014-05-28T12:02:50.481Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m15ms - 216.05kb[0m
-
-2014-05-28T12:02:50.483Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m6ms - 18.46kb[0m
-
-2014-05-28T12:02:50.484Z - info: [90mGET /cat/lib/cat.css [32m200 [90m9ms - 86.47kb[0m
-
-2014-05-28T12:02:50.485Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m13ms - 188.74kb[0m
-
-2014-05-28T12:02:50.505Z - info: [90mGET /cat/lib/cat.js [32m200 [90m32ms - 282.95kb[0m
-
-2014-05-28T12:02:50.517Z - info: [90mGET /js/jquery.js [32m200 [90m48ms - 266.8kb[0m
-
-2014-05-28T12:02:50.628Z - info: [90mGET /cat/config/cat.json [32m200 [90m1ms - 1.51kb[0m
-
-2014-05-28T12:02:50.678Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m1ms[0m
-
-2014-05-28T12:02:50.843Z - info: [90mGET /js/jquery.mobile-1.4.0.min.map [33m404 [90m0ms[0m
-
-2014-05-28T12:04:05.951Z - info: [90mGET /assert?testName=End&scenario=general&message=End&error=&status=End&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=30e81349-9b4c-f12c-c0f8-2936cd44ae41&cache=Wed,%2028%20May%202014%2012:04:05%20GMT [32m200 [90m1ms - 62b[0m
-
-2014-05-28T12:06:46.068Z - info: [90mGET / [32m200 [90m4ms - 10.18kb[0m
-
-2014-05-28T12:06:46.133Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m4ms - 188.74kb[0m
-
-2014-05-28T12:06:46.134Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m4ms - 18.46kb[0m
-
-2014-05-28T12:06:46.134Z - info: [90mGET /cat/lib/cat.css [32m200 [90m4ms - 86.47kb[0m
-
-2014-05-28T12:06:46.134Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m6ms - 216.05kb[0m
-
-2014-05-28T12:06:46.145Z - info: [90mGET /js/jquery.js [32m200 [90m17ms - 266.8kb[0m
-
-2014-05-28T12:06:46.146Z - info: [90mGET /cat/lib/cat.js [32m200 [90m17ms - 282.95kb[0m
-
-2014-05-28T12:06:46.271Z - info: [90mGET /cat/config/cat.json [32m200 [90m1ms - 1.51kb[0m
-
-2014-05-28T12:06:46.318Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m2ms[0m
-
-2014-05-28T12:06:46.379Z - info: [90mGET /js/jquery.mobile-1.4.0.min.map [33m404 [90m1ms[0m
-
-2014-05-28T12:10:46.466Z - info: [90mGET /assert?testName=End&scenario=general&message=End&error=&status=End&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=30e81349-9b4c-f12c-c0f8-2936cd44ae41&cache=Wed,%2028%20May%202014%2012:10:46%20GMT [32m200 [90m2ms - 62b[0m
+2014-06-08T05:57:28.643Z - info: [90mGET /favicon.ico [33m404 [90m1ms[0m
 

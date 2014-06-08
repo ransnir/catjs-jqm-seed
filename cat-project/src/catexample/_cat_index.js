@@ -67,13 +67,13 @@ _cat.core.define("C:.Users.snirr.workspace.catjs_example.cat-project.target.cate
   var pkgName = "C:.Users.snirr.workspace.catjs_example.cat-project.target.catexample.index.html.setUsername$$cat";
 
   /* test content in here */
-  _cat.core.ui.setContent({
-    style: 'color:#0080FF',
-    header: 'setUsername',
-    desc: 'setText("#username", "catjs");',
-    tips: ''
-  });
-  _cat.core.plugin('jqm').actions.setText("#username", "catjs");
+  _cat.core.clientmanager.delayManager([{
+    "command": "_cat.core.ui.setContent(",
+    "onObject": "{style: 'color:#0080FF', header: 'setUsername', desc: 'setText(\"#username\", \"catjs\");',tips: ''});"
+  }, {
+    "command": "_cat.core.plugin(\"jqm\").actions.",
+    "onObject": "setText(\"#username\", \"catjs\");"
+  }]);
   _cat.utils.chai.assert({
     code: "assert.ok($(\"#username\").val()==\"catjs\",\"email match to catjs\")\n",
     fail: true,
@@ -139,7 +139,7 @@ _cat.core.define("C:.Users.snirr.workspace.catjs_example.cat-project.target.cate
         "id": "scrap_2",
         "$type": "html"
       },
-      "output": ["_cat.core.ui.setContent({style: 'color:#0080FF', header: 'setUsername', desc: 'setText(\"#username\", \"catjs\");',tips: ''});", "_cat.core.plugin('jqm').actions.setText(\"#username\", \"catjs\");"],
+      "output": ["_cat.core.clientmanager.delayManager([{\"command\":\"_cat.core.ui.setContent(\",\"onObject\":\"{style: 'color:#0080FF', header: 'setUsername', desc: 'setText(\\\"#username\\\", \\\"catjs\\\");',tips: ''});\"},{\"command\":\"_cat.core.plugin(\\\"jqm\\\").actions.\",\"onObject\":\"setText(\\\"#username\\\", \\\"catjs\\\");\"}]);"],
       "$$context": {
         "$$context": {
           "name": "setUsername",
@@ -221,13 +221,13 @@ _cat.core.define("C:.Users.snirr.workspace.catjs_example.cat-project.target.cate
   var pkgName = "C:.Users.snirr.workspace.catjs_example.cat-project.target.catexample.index.html.setEmail$$cat";
 
   /* test content in here */
-  _cat.core.ui.setContent({
-    style: 'color:#0080FF',
-    header: 'setEmail',
-    desc: 'setText("#email", "catjsteam@gmail.com");',
-    tips: ''
-  });
-  _cat.core.plugin('jqm').actions.setText("#email", "catjsteam@gmail.com");
+  _cat.core.clientmanager.delayManager([{
+    "command": "_cat.core.ui.setContent(",
+    "onObject": "{style: 'color:#0080FF', header: 'setEmail', desc: 'setText(\"#email\", \"catjsteam@gmail.com\");',tips: ''});"
+  }, {
+    "command": "_cat.core.plugin(\"jqm\").actions.",
+    "onObject": "setText(\"#email\", \"catjsteam@gmail.com\");"
+  }]);
   _cat.utils.chai.assert({
     code: "assert.ok($(\"#email\").val()==\"catjsteam@gmail.com\",\"email match\")\n",
     fail: true,
@@ -293,7 +293,7 @@ _cat.core.define("C:.Users.snirr.workspace.catjs_example.cat-project.target.cate
         "id": "scrap_3",
         "$type": "html"
       },
-      "output": ["_cat.core.ui.setContent({style: 'color:#0080FF', header: 'setEmail', desc: 'setText(\"#email\", \"catjsteam@gmail.com\");',tips: ''});", "_cat.core.plugin('jqm').actions.setText(\"#email\", \"catjsteam@gmail.com\");"],
+      "output": ["_cat.core.clientmanager.delayManager([{\"command\":\"_cat.core.ui.setContent(\",\"onObject\":\"{style: 'color:#0080FF', header: 'setEmail', desc: 'setText(\\\"#email\\\", \\\"catjsteam@gmail.com\\\");',tips: ''});\"},{\"command\":\"_cat.core.plugin(\\\"jqm\\\").actions.\",\"onObject\":\"setText(\\\"#email\\\", \\\"catjsteam@gmail.com\\\");\"}]);"],
       "$$context": {
         "$$context": {
           "name": "setEmail",
@@ -375,13 +375,13 @@ _cat.core.define("C:.Users.snirr.workspace.catjs_example.cat-project.target.cate
   var pkgName = "C:.Users.snirr.workspace.catjs_example.cat-project.target.catexample.index.html.setPassword$$cat";
 
   /* test content in here */
-  _cat.core.ui.setContent({
-    style: 'color:#0080FF',
-    header: 'setPassword',
-    desc: 'setText("#password", "123456789");',
-    tips: ''
-  });
-  _cat.core.plugin('jqm').actions.setText("#password", "123456789");
+  _cat.core.clientmanager.delayManager([{
+    "command": "_cat.core.ui.setContent(",
+    "onObject": "{style: 'color:#0080FF', header: 'setPassword', desc: 'setText(\"#password\", \"123456789\");',tips: ''});"
+  }, {
+    "command": "_cat.core.plugin(\"jqm\").actions.",
+    "onObject": "setText(\"#password\", \"123456789\");"
+  }]);
   _cat.utils.chai.assert({
     code: "assert.ok($(\"#password\").val()==\"123456789\",\"password match\")\n",
     fail: true,
@@ -447,7 +447,7 @@ _cat.core.define("C:.Users.snirr.workspace.catjs_example.cat-project.target.cate
         "id": "scrap_4",
         "$type": "html"
       },
-      "output": ["_cat.core.ui.setContent({style: 'color:#0080FF', header: 'setPassword', desc: 'setText(\"#password\", \"123456789\");',tips: ''});", "_cat.core.plugin('jqm').actions.setText(\"#password\", \"123456789\");"],
+      "output": ["_cat.core.clientmanager.delayManager([{\"command\":\"_cat.core.ui.setContent(\",\"onObject\":\"{style: 'color:#0080FF', header: 'setPassword', desc: 'setText(\\\"#password\\\", \\\"123456789\\\");',tips: ''});\"},{\"command\":\"_cat.core.plugin(\\\"jqm\\\").actions.\",\"onObject\":\"setText(\\\"#password\\\", \\\"123456789\\\");\"}]);"],
       "$$context": {
         "$$context": {
           "name": "setPassword",
@@ -529,13 +529,13 @@ _cat.core.define("C:.Users.snirr.workspace.catjs_example.cat-project.target.cate
   var pkgName = "C:.Users.snirr.workspace.catjs_example.cat-project.target.catexample.index.html.setRepeatPassword$$cat";
 
   /* test content in here */
-  _cat.core.ui.setContent({
-    style: 'color:#0080FF',
-    header: 'setRepeatPassword',
-    desc: 'setText("#repeatpassword", "123456789");',
-    tips: ''
-  });
-  _cat.core.plugin('jqm').actions.setText("#repeatpassword", "123456789");
+  _cat.core.clientmanager.delayManager([{
+    "command": "_cat.core.ui.setContent(",
+    "onObject": "{style: 'color:#0080FF', header: 'setRepeatPassword', desc: 'setText(\"#repeatpassword\", \"123456789\");',tips: ''});"
+  }, {
+    "command": "_cat.core.plugin(\"jqm\").actions.",
+    "onObject": "setText(\"#repeatpassword\", \"123456789\");"
+  }]);
   _cat.utils.chai.assert({
     code: "assert.ok($(\"#repeatpassword\").val()==\"123456789\",\"repeat password match\")\n",
     fail: true,
@@ -601,7 +601,7 @@ _cat.core.define("C:.Users.snirr.workspace.catjs_example.cat-project.target.cate
         "id": "scrap_5",
         "$type": "html"
       },
-      "output": ["_cat.core.ui.setContent({style: 'color:#0080FF', header: 'setRepeatPassword', desc: 'setText(\"#repeatpassword\", \"123456789\");',tips: ''});", "_cat.core.plugin('jqm').actions.setText(\"#repeatpassword\", \"123456789\");"],
+      "output": ["_cat.core.clientmanager.delayManager([{\"command\":\"_cat.core.ui.setContent(\",\"onObject\":\"{style: 'color:#0080FF', header: 'setRepeatPassword', desc: 'setText(\\\"#repeatpassword\\\", \\\"123456789\\\");',tips: ''});\"},{\"command\":\"_cat.core.plugin(\\\"jqm\\\").actions.\",\"onObject\":\"setText(\\\"#repeatpassword\\\", \\\"123456789\\\");\"}]);"],
       "$$context": {
         "$$context": {
           "name": "setRepeatPassword",
@@ -683,13 +683,13 @@ _cat.core.define("C:.Users.snirr.workspace.catjs_example.cat-project.target.cate
   var pkgName = "C:.Users.snirr.workspace.catjs_example.cat-project.target.catexample.index.html.setmobileweb$$cat";
 
   /* test content in here */
-  _cat.core.ui.setContent({
-    style: 'color:#0080FF',
-    header: 'setmobileweb',
-    desc: 'setCheck("#mobileweb");',
-    tips: ''
-  });
-  _cat.core.plugin('jqm').actions.setCheck("#mobileweb");
+  _cat.core.clientmanager.delayManager([{
+    "command": "_cat.core.ui.setContent(",
+    "onObject": "{style: 'color:#0080FF', header: 'setmobileweb', desc: 'setCheck(\"#mobileweb\");',tips: ''});"
+  }, {
+    "command": "_cat.core.plugin(\"jqm\").actions.",
+    "onObject": "setCheck(\"#mobileweb\");"
+  }]);
   _cat.utils.chai.assert({
     code: "assert.ok($(\"#mobileweb\").is(\":checked\"),\"mobileweb is checked\")\n",
     fail: true,
@@ -755,7 +755,7 @@ _cat.core.define("C:.Users.snirr.workspace.catjs_example.cat-project.target.cate
         "id": "scrap_6",
         "$type": "html"
       },
-      "output": ["_cat.core.ui.setContent({style: 'color:#0080FF', header: 'setmobileweb', desc: 'setCheck(\"#mobileweb\");',tips: ''});", "_cat.core.plugin('jqm').actions.setCheck(\"#mobileweb\");"],
+      "output": ["_cat.core.clientmanager.delayManager([{\"command\":\"_cat.core.ui.setContent(\",\"onObject\":\"{style: 'color:#0080FF', header: 'setmobileweb', desc: 'setCheck(\\\"#mobileweb\\\");',tips: ''});\"},{\"command\":\"_cat.core.plugin(\\\"jqm\\\").actions.\",\"onObject\":\"setCheck(\\\"#mobileweb\\\");\"}]);"],
       "$$context": {
         "$$context": {
           "name": "setmobileweb",
@@ -837,13 +837,13 @@ _cat.core.define("C:.Users.snirr.workspace.catjs_example.cat-project.target.cate
   var pkgName = "C:.Users.snirr.workspace.catjs_example.cat-project.target.catexample.index.html.setweb$$cat";
 
   /* test content in here */
-  _cat.core.ui.setContent({
-    style: 'color:#0080FF',
-    header: 'setweb',
-    desc: 'setCheck("#web");',
-    tips: ''
-  });
-  _cat.core.plugin('jqm').actions.setCheck("#web");
+  _cat.core.clientmanager.delayManager([{
+    "command": "_cat.core.ui.setContent(",
+    "onObject": "{style: 'color:#0080FF', header: 'setweb', desc: 'setCheck(\"#web\");',tips: ''});"
+  }, {
+    "command": "_cat.core.plugin(\"jqm\").actions.",
+    "onObject": "setCheck(\"#web\");"
+  }]);
   _cat.utils.chai.assert({
     code: "assert.ok($(\"#web\").is(\":checked\"),\"web is checked\")\n",
     fail: true,
@@ -909,7 +909,7 @@ _cat.core.define("C:.Users.snirr.workspace.catjs_example.cat-project.target.cate
         "id": "scrap_7",
         "$type": "html"
       },
-      "output": ["_cat.core.ui.setContent({style: 'color:#0080FF', header: 'setweb', desc: 'setCheck(\"#web\");',tips: ''});", "_cat.core.plugin('jqm').actions.setCheck(\"#web\");"],
+      "output": ["_cat.core.clientmanager.delayManager([{\"command\":\"_cat.core.ui.setContent(\",\"onObject\":\"{style: 'color:#0080FF', header: 'setweb', desc: 'setCheck(\\\"#web\\\");',tips: ''});\"},{\"command\":\"_cat.core.plugin(\\\"jqm\\\").actions.\",\"onObject\":\"setCheck(\\\"#web\\\");\"}]);"],
       "$$context": {
         "$$context": {
           "name": "setweb",
@@ -991,13 +991,13 @@ _cat.core.define("C:.Users.snirr.workspace.catjs_example.cat-project.target.cate
   var pkgName = "C:.Users.snirr.workspace.catjs_example.cat-project.target.catexample.index.html.slider90$$cat";
 
   /* test content in here */
-  _cat.core.ui.setContent({
-    style: 'color:#0080FF',
-    header: 'slider90',
-    desc: 'slide("#usetesting" , 90);',
-    tips: ''
-  });
-  _cat.core.plugin('jqm').actions.slide("#usetesting", 90);
+  _cat.core.clientmanager.delayManager([{
+    "command": "_cat.core.ui.setContent(",
+    "onObject": "{style: 'color:#0080FF', header: 'slider90', desc: 'slide(\"#usetesting\" , 90);',tips: ''});"
+  }, {
+    "command": "_cat.core.plugin(\"jqm\").actions.",
+    "onObject": "slide(\"#usetesting\" , 90);"
+  }]);
   _cat.utils.chai.assert({
     code: "assert.ok($(\"#usetesting\").val()==\"90\",\"slide value is 90\")\n",
     fail: true,
@@ -1063,7 +1063,7 @@ _cat.core.define("C:.Users.snirr.workspace.catjs_example.cat-project.target.cate
         "id": "scrap_8",
         "$type": "html"
       },
-      "output": ["_cat.core.ui.setContent({style: 'color:#0080FF', header: 'slider90', desc: 'slide(\"#usetesting\" , 90);',tips: ''});", "_cat.core.plugin('jqm').actions.slide(\"#usetesting\" , 90);"],
+      "output": ["_cat.core.clientmanager.delayManager([{\"command\":\"_cat.core.ui.setContent(\",\"onObject\":\"{style: 'color:#0080FF', header: 'slider90', desc: 'slide(\\\"#usetesting\\\" , 90);',tips: ''});\"},{\"command\":\"_cat.core.plugin(\\\"jqm\\\").actions.\",\"onObject\":\"slide(\\\"#usetesting\\\" , 90);\"}]);"],
       "$$context": {
         "$$context": {
           "name": "slider90",
@@ -1142,11 +1142,11 @@ _cat.core.define("C:.Users.snirr.workspace.catjs_example.cat-project.target.cate
   var pkgName = "C:.Users.snirr.workspace.catjs_example.cat-project.target.catexample.index.html.clickSignup$$cat";
 
   /* test content in here */
-  _cat.core.ui.setContent({
-    style: 'color:#0080FF',
-    header: 'clickSignup',
-    desc: 'clickButton("#signup");',
-    tips: ''
-  });
-  _cat.core.plugin('jqm').actions.clickButton("#signup");
+  _cat.core.clientmanager.delayManager([{
+    "command": "_cat.core.ui.setContent(",
+    "onObject": "{style: 'color:#0080FF', header: 'clickSignup', desc: 'clickButton(\"#signup\");',tips: ''});"
+  }, {
+    "command": "_cat.core.plugin(\"jqm\").actions.",
+    "onObject": "clickButton(\"#signup\");"
+  }]);
 });

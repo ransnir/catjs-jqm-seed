@@ -20,16 +20,7 @@
     ],
     "scenarios" : {
         "general" : {
-            "tests" : [
-				{"name" : "setUsername"},
-				{"name" : "setEmail"},
-				{"name" : "setPassword"},
-				{"name" : "setRepeatPassword"},
-				{"name" : "setmobileweb"},
-				{"name" : "setweb"},
-				{"name" : "slider90"},
-				{"name" : "clickSignup"}
-			]
+            "tests" : []
         }
     },
     "ui": true,
@@ -40,6 +31,6 @@
     "assert": {
         "errors": true
     },
-    "run-mode": "tests",
+    "run-mode": "all",
     "test-failure-timeout": 30
 }
