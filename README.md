@@ -35,7 +35,7 @@ Open the cmd:
 Open the cmd : 
 	
 	cd {select.path}/catjs-jqm-seed
-	npm install -g catjs
+	sudo npm install -g catjs
 
 
 ## Build test deployment
