@@ -109,3 +109,167 @@
 ""2014-07-16 10:38:52  >> Plugin Done:  p@project.webserver.start 
 ""2014-07-16 10:38:52  Close Task:  t@server.start 
 "
+ --------------------------  CAT Flow ---------------------------------------------- 
+"2014-07-16 10:49:17  > Open Task:  {"name":"t@clean","actions":["p@project.clean"]} watch: false 
+""2014-07-16 10:49:17  >> Running Plugin:  p@project.clean 
+""2014-07-16 10:49:17  >> Plugin Done:  p@project.clean 
+""2014-07-16 10:49:17  Close Task:  t@clean 
+""2014-07-16 10:49:17  > Open Task:  {"name":"t@init","actions":["p@project.copy","p@libraries.build","p@lib.copy","p@lib.parse","p@src.copy"]} watch: false 
+""2014-07-16 10:49:17  >> Running Plugin:  p@project.copy 
+""2014-07-16 10:49:17  >> Plugin Done:  p@project.copy 
+""2014-07-16 10:49:17  >> Running Plugin:  p@libraries.build 
+""2014-07-16 10:49:19  >> Plugin Done:  p@libraries.build 
+""2014-07-16 10:49:19  >> Running Plugin:  p@lib.copy 
+""2014-07-16 10:49:19  >> Plugin Done:  p@lib.copy 
+""2014-07-16 10:49:19  >> Running Plugin:  p@lib.parse 
+""2014-07-16 10:49:19  >> Plugin Done:  p@lib.parse 
+""2014-07-16 10:49:19  >> Running Plugin:  p@src.copy 
+""2014-07-16 10:49:19  >> Plugin Done:  p@src.copy 
+""2014-07-16 10:49:19  Close Task:  t@init 
+""2014-07-16 10:49:19  > Open Task:  {"name":"t@scrap","actions":["p@scrap.common","p@scrap.sencha","p@scrap.jqm","p@scrap.enyo","p@custom.plugin","p@init.scrap"]} watch: false 
+""2014-07-16 10:49:19  >> Running Plugin:  p@scrap.common 
+""2014-07-16 10:49:19  >> Plugin Done:  p@scrap.common 
+""2014-07-16 10:49:19  >> Running Plugin:  p@scrap.sencha 
+""2014-07-16 10:49:19  >> Plugin Done:  p@scrap.sencha 
+""2014-07-16 10:49:19  >> Running Plugin:  p@scrap.jqm 
+""2014-07-16 10:49:19  >> Plugin Done:  p@scrap.jqm 
+""2014-07-16 10:49:19  >> Running Plugin:  p@scrap.enyo 
+""2014-07-16 10:49:19  >> Plugin Done:  p@scrap.enyo 
+""2014-07-16 10:49:19  >> Running Plugin:  p@custom.plugin 
+""2014-07-16 10:49:19  >> Plugin Done:  p@custom.plugin 
+""2014-07-16 10:49:19  >> Running Plugin:  p@init.scrap 
+""2014-07-16 10:49:20  >> Plugin Done:  p@init.scrap 
+""2014-07-16 10:49:20  Close Task:  t@scrap 
+""2014-07-16 10:49:20  > Open Task:  {"name":"t@inject","actions":["p@scrap.common","p@scrap.sencha","p@scrap.jqm","p@scrap.enyo","p@custom.plugin","p@project.inject","p@project.minify"]} watch: false 
+""2014-07-16 10:49:20  >> Running Plugin:  p@scrap.common 
+""2014-07-16 10:49:20  >> Plugin Done:  p@scrap.common 
+""2014-07-16 10:49:20  >> Running Plugin:  p@scrap.sencha 
+""2014-07-16 10:49:20  >> Plugin Done:  p@scrap.sencha 
+""2014-07-16 10:49:20  >> Running Plugin:  p@scrap.jqm 
+""2014-07-16 10:49:20  >> Plugin Done:  p@scrap.jqm 
+""2014-07-16 10:49:20  >> Running Plugin:  p@scrap.enyo 
+""2014-07-16 10:49:20  >> Plugin Done:  p@scrap.enyo 
+""2014-07-16 10:49:20  >> Running Plugin:  p@custom.plugin 
+""2014-07-16 10:49:20  >> Plugin Done:  p@custom.plugin 
+""2014-07-16 10:49:20  >> Running Plugin:  p@project.inject 
+""2014-07-16 10:49:20  >> Plugin Done:  p@project.inject 
+""2014-07-16 10:49:20  >> Running Plugin:  p@project.minify 
+""2014-07-16 10:49:20  >> Plugin Done:  p@project.minify 
+""2014-07-16 10:49:20  Close Task:  t@inject 
+""2014-07-16 10:49:20  > Open Task:  {"name":"t@autotest","actions":["p@autotest.plugin","p@src.copy"]} watch: false 
+""2014-07-16 10:49:20  >> Running Plugin:  p@autotest.plugin 
+""2014-07-16 10:49:20  >> Plugin Done:  p@autotest.plugin 
+""2014-07-16 10:49:20  >> Running Plugin:  p@src.copy 
+""2014-07-16 10:49:20  >> Plugin Done:  p@src.copy 
+""2014-07-16 10:49:20  Close Task:  t@autotest 
+"
+ --------------------------  CAT Flow ---------------------------------------------- 
+"2014-07-16 10:49:24  > Open Task:  {"name":"t@clean","actions":["p@project.clean"]} watch: false 
+""2014-07-16 10:49:24  >> Running Plugin:  p@project.clean 
+""2014-07-16 10:49:24  >> Plugin Done:  p@project.clean 
+""2014-07-16 10:49:24  Close Task:  t@clean 
+""2014-07-16 10:49:24  > Open Task:  {"name":"t@init","actions":["p@project.copy","p@libraries.build","p@lib.copy","p@lib.parse","p@src.copy"]} watch: false 
+""2014-07-16 10:49:24  >> Running Plugin:  p@project.copy 
+""2014-07-16 10:49:24  >> Plugin Done:  p@project.copy 
+""2014-07-16 10:49:24  >> Running Plugin:  p@libraries.build 
+""2014-07-16 10:49:26  >> Plugin Done:  p@libraries.build 
+""2014-07-16 10:49:26  >> Running Plugin:  p@lib.copy 
+""2014-07-16 10:49:26  >> Plugin Done:  p@lib.copy 
+""2014-07-16 10:49:26  >> Running Plugin:  p@lib.parse 
+""2014-07-16 10:49:26  >> Plugin Done:  p@lib.parse 
+""2014-07-16 10:49:26  >> Running Plugin:  p@src.copy 
+""2014-07-16 10:49:26  >> Plugin Done:  p@src.copy 
+""2014-07-16 10:49:26  Close Task:  t@init 
+""2014-07-16 10:49:26  > Open Task:  {"name":"t@scrap","actions":["p@scrap.common","p@scrap.sencha","p@scrap.jqm","p@scrap.enyo","p@custom.plugin","p@init.scrap"]} watch: false 
+""2014-07-16 10:49:26  >> Running Plugin:  p@scrap.common 
+""2014-07-16 10:49:26  >> Plugin Done:  p@scrap.common 
+""2014-07-16 10:49:26  >> Running Plugin:  p@scrap.sencha 
+""2014-07-16 10:49:26  >> Plugin Done:  p@scrap.sencha 
+""2014-07-16 10:49:26  >> Running Plugin:  p@scrap.jqm 
+""2014-07-16 10:49:26  >> Plugin Done:  p@scrap.jqm 
+""2014-07-16 10:49:26  >> Running Plugin:  p@scrap.enyo 
+""2014-07-16 10:49:26  >> Plugin Done:  p@scrap.enyo 
+""2014-07-16 10:49:26  >> Running Plugin:  p@custom.plugin 
+""2014-07-16 10:49:26  >> Plugin Done:  p@custom.plugin 
+""2014-07-16 10:49:26  >> Running Plugin:  p@init.scrap 
+""2014-07-16 10:49:26  >> Plugin Done:  p@init.scrap 
+""2014-07-16 10:49:26  Close Task:  t@scrap 
+""2014-07-16 10:49:26  > Open Task:  {"name":"t@inject","actions":["p@scrap.common","p@scrap.sencha","p@scrap.jqm","p@scrap.enyo","p@custom.plugin","p@project.inject","p@project.minify"]} watch: false 
+""2014-07-16 10:49:26  >> Running Plugin:  p@scrap.common 
+""2014-07-16 10:49:26  >> Plugin Done:  p@scrap.common 
+""2014-07-16 10:49:26  >> Running Plugin:  p@scrap.sencha 
+""2014-07-16 10:49:26  >> Plugin Done:  p@scrap.sencha 
+""2014-07-16 10:49:26  >> Running Plugin:  p@scrap.jqm 
+""2014-07-16 10:49:26  >> Plugin Done:  p@scrap.jqm 
+""2014-07-16 10:49:26  >> Running Plugin:  p@scrap.enyo 
+""2014-07-16 10:49:26  >> Plugin Done:  p@scrap.enyo 
+""2014-07-16 10:49:26  >> Running Plugin:  p@custom.plugin 
+""2014-07-16 10:49:26  >> Plugin Done:  p@custom.plugin 
+""2014-07-16 10:49:26  >> Running Plugin:  p@project.inject 
+""2014-07-16 10:49:26  >> Plugin Done:  p@project.inject 
+""2014-07-16 10:49:26  >> Running Plugin:  p@project.minify 
+""2014-07-16 10:49:26  >> Plugin Done:  p@project.minify 
+""2014-07-16 10:49:26  Close Task:  t@inject 
+""2014-07-16 10:49:26  > Open Task:  {"name":"t@autotest","actions":["p@autotest.plugin","p@src.copy"]} watch: false 
+""2014-07-16 10:49:26  >> Running Plugin:  p@autotest.plugin 
+""2014-07-16 10:49:26  >> Plugin Done:  p@autotest.plugin 
+""2014-07-16 10:49:26  >> Running Plugin:  p@src.copy 
+""2014-07-16 10:49:26  >> Plugin Done:  p@src.copy 
+""2014-07-16 10:49:26  Close Task:  t@autotest 
+""2014-07-16 10:49:26  > Open Task:  {"name":"t@server.start","actions":["p@project.webserver.start"]} watch: false 
+""2014-07-16 10:49:26  >> Running Plugin:  p@project.webserver.start 
+""2014-07-16 10:49:27  >> Plugin Done:  p@project.webserver.start 
+""2014-07-16 10:49:27  Close Task:  t@server.start 
+"
+ --------------------------  CAT Flow ---------------------------------------------- 
+"2014-07-16 10:49:39  > Open Task:  {"name":"t@clean","actions":["p@project.clean"]} watch: false 
+""2014-07-16 10:49:39  >> Running Plugin:  p@project.clean 
+""2014-07-16 10:49:39  >> Plugin Done:  p@project.clean 
+""2014-07-16 10:49:39  Close Task:  t@clean 
+""2014-07-16 10:49:39  > Open Task:  {"name":"t@init","actions":["p@project.copy","p@libraries.build","p@lib.copy","p@lib.parse","p@src.copy"]} watch: false 
+""2014-07-16 10:49:39  >> Running Plugin:  p@project.copy 
+""2014-07-16 10:49:39  >> Plugin Done:  p@project.copy 
+""2014-07-16 10:49:39  >> Running Plugin:  p@libraries.build 
+""2014-07-16 10:49:41  >> Plugin Done:  p@libraries.build 
+""2014-07-16 10:49:41  >> Running Plugin:  p@lib.copy 
+""2014-07-16 10:49:41  >> Plugin Done:  p@lib.copy 
+""2014-07-16 10:49:41  >> Running Plugin:  p@lib.parse 
+""2014-07-16 10:49:41  >> Plugin Done:  p@lib.parse 
+""2014-07-16 10:49:41  >> Running Plugin:  p@src.copy 
+""2014-07-16 10:49:41  >> Plugin Done:  p@src.copy 
+""2014-07-16 10:49:41  Close Task:  t@init 
+""2014-07-16 10:49:41  > Open Task:  {"name":"t@scrap","actions":["p@scrap.common","p@scrap.sencha","p@scrap.jqm","p@scrap.enyo","p@custom.plugin","p@init.scrap"]} watch: false 
+""2014-07-16 10:49:41  >> Running Plugin:  p@scrap.common 
+""2014-07-16 10:49:41  >> Plugin Done:  p@scrap.common 
+""2014-07-16 10:49:41  >> Running Plugin:  p@scrap.sencha 
+""2014-07-16 10:49:41  >> Plugin Done:  p@scrap.sencha 
+""2014-07-16 10:49:41  >> Running Plugin:  p@scrap.jqm 
+""2014-07-16 10:49:41  >> Plugin Done:  p@scrap.jqm 
+""2014-07-16 10:49:41  >> Running Plugin:  p@scrap.enyo 
+""2014-07-16 10:49:41  >> Plugin Done:  p@scrap.enyo 
+""2014-07-16 10:49:41  >> Running Plugin:  p@custom.plugin 
+""2014-07-16 10:49:41  >> Plugin Done:  p@custom.plugin 
+""2014-07-16 10:49:42  >> Running Plugin:  p@init.scrap 
+""2014-07-16 10:49:42  >> Plugin Done:  p@init.scrap 
+""2014-07-16 10:49:42  Close Task:  t@scrap 
+""2014-07-16 10:49:42  > Open Task:  {"name":"t@inject","actions":["p@scrap.common","p@scrap.sencha","p@scrap.jqm","p@scrap.enyo","p@custom.plugin","p@project.inject","p@project.minify"]} watch: false 
+""2014-07-16 10:49:42  >> Running Plugin:  p@scrap.common 
+""2014-07-16 10:49:42  >> Plugin Done:  p@scrap.common 
+""2014-07-16 10:49:42  >> Running Plugin:  p@scrap.sencha 
+""2014-07-16 10:49:42  >> Plugin Done:  p@scrap.sencha 
+""2014-07-16 10:49:42  >> Running Plugin:  p@scrap.jqm 
+""2014-07-16 10:49:42  >> Plugin Done:  p@scrap.jqm 
+""2014-07-16 10:49:42  >> Running Plugin:  p@scrap.enyo 
+""2014-07-16 10:49:42  >> Plugin Done:  p@scrap.enyo 
+""2014-07-16 10:49:42  >> Running Plugin:  p@custom.plugin 
+""2014-07-16 10:49:42  >> Plugin Done:  p@custom.plugin 
+""2014-07-16 10:49:42  >> Running Plugin:  p@project.inject 
+""2014-07-16 10:49:42  >> Plugin Done:  p@project.inject 
+""2014-07-16 10:49:42  >> Running Plugin:  p@project.minify 
+""2014-07-16 10:49:42  >> Plugin Done:  p@project.minify 
+""2014-07-16 10:49:42  Close Task:  t@inject 
+""2014-07-16 10:49:42  > Open Task:  {"name":"t@server.start","actions":["p@project.webserver.start"]} watch: false 
+""2014-07-16 10:49:42  >> Running Plugin:  p@project.webserver.start 
+""2014-07-16 10:49:43  >> Plugin Done:  p@project.webserver.start 
+""2014-07-16 10:49:43  Close Task:  t@server.start 
+"

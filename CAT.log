@@ -1,7 +1,7 @@
-[Tue May 27 2014 13:48:37 GMT+0300 (Jerusalem Daylight Time)] INFO 
+[Wed Jul 16 2014 10:38:03 GMT+0300 (Jerusalem Daylight Time)] INFO 
 
 [CAT] Initial LOG -----------------------------------------------------------------------
-[Tue May 27 2014 13:48:37 GMT+0300 (Jerusalem Daylight Time)] INFO [CAT] Initial CAT process: 7384
-[Tue May 27 2014 13:48:37 GMT+0300 (Jerusalem Daylight Time)] DEBUG [CAT] Initial, current location: C:\Users\snirr\workspace\catjs_example
-[Tue May 27 2014 13:48:37 GMT+0300 (Jerusalem Daylight Time)] DEBUG [CAT] Initial, command line arguments: {"init":"","argv":{"remain":[],"cooked":["--init"],"original":["--init"]},"home":{"path":"C:\\Users\\snirr\\AppData\\Roaming\\npm\\node_modules\\catjs","working":{"path":"C:\\Users\\snirr\\workspace\\catjs_example"}}}
-[Tue May 27 2014 13:48:37 GMT+0300 (Jerusalem Daylight Time)] INFO watch: false kill: -1 process: 7384
+[Wed Jul 16 2014 10:38:03 GMT+0300 (Jerusalem Daylight Time)] INFO [CAT] Initial CAT process: 17144
+[Wed Jul 16 2014 10:38:03 GMT+0300 (Jerusalem Daylight Time)] DEBUG [CAT] Initial, current location: C:\Users\snirr\workspace\catjs_example
+[Wed Jul 16 2014 10:38:03 GMT+0300 (Jerusalem Daylight Time)] DEBUG [CAT] Initial, command line arguments: {"init":"cat","argv":{"remain":[],"cooked":["--init","cat"],"original":["-i"]},"home":{"path":"C:\\Users\\snirr\\workspace\\catjs","working":{"path":"C:\\Users\\snirr\\workspace\\catjs_example"}}}
+[Wed Jul 16 2014 10:38:03 GMT+0300 (Jerusalem Daylight Time)] INFO watch: false kill: -1 process: 17144

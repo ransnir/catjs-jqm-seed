@@ -65,7 +65,7 @@ _cat.core.declare('C:.Users.snirr.workspace.catjs_example.cat-project.target.cat
     "context": ["thi$"],
     "auto": true,
     "injectcode": false,
-    "id": "scrap_b753297b-5548-8518-1f1e-c491a16787dd",
+    "id": "scrap_e830754d-aa3b-0127-052d-2a015cb07307",
     "$type": "html",
     "numCommands": 3,
     "pkgName": "C:.Users.snirr.workspace.catjs_example.cat-project.target.catjs-github.index.html.setUsername"
@@ -171,7 +171,7 @@ _cat.core.declare('C:.Users.snirr.workspace.catjs_example.cat-project.target.cat
     "context": ["thi$"],
     "auto": true,
     "injectcode": false,
-    "id": "scrap_78ec5529-a8f3-18d7-f230-7ecec68501d7",
+    "id": "scrap_8a5f5b68-6728-07a4-4860-63716df02baf",
     "$type": "html",
     "numCommands": 3,
     "pkgName": "C:.Users.snirr.workspace.catjs_example.cat-project.target.catjs-github.index.html.setEmail"
@@ -277,7 +277,7 @@ _cat.core.declare('C:.Users.snirr.workspace.catjs_example.cat-project.target.cat
     "context": ["thi$"],
     "auto": true,
     "injectcode": false,
-    "id": "scrap_1fc312bc-c92e-c4bd-392c-cd26837e6c1b",
+    "id": "scrap_ed956f1d-1b92-3929-2112-18da6ce974b0",
     "$type": "html",
     "numCommands": 3,
     "pkgName": "C:.Users.snirr.workspace.catjs_example.cat-project.target.catjs-github.index.html.setPassword"
@@ -383,7 +383,7 @@ _cat.core.declare('C:.Users.snirr.workspace.catjs_example.cat-project.target.cat
     "context": ["thi$"],
     "auto": true,
     "injectcode": false,
-    "id": "scrap_a576ec56-9f31-c27b-164e-bd06bda54161",
+    "id": "scrap_20c47bbd-7628-d7af-cd1f-0997750af97b",
     "$type": "html",
     "numCommands": 3,
     "pkgName": "C:.Users.snirr.workspace.catjs_example.cat-project.target.catjs-github.index.html.setRepeatPassword"
@@ -489,7 +489,7 @@ _cat.core.declare('C:.Users.snirr.workspace.catjs_example.cat-project.target.cat
     "context": ["thi$"],
     "auto": true,
     "injectcode": false,
-    "id": "scrap_6c1ca4dd-d21f-6f2f-83cb-b83a76e33017",
+    "id": "scrap_f3643313-89d9-4606-6646-e088f2864c2c",
     "$type": "html",
     "numCommands": 3,
     "pkgName": "C:.Users.snirr.workspace.catjs_example.cat-project.target.catjs-github.index.html.setmobileweb"
@@ -595,7 +595,7 @@ _cat.core.declare('C:.Users.snirr.workspace.catjs_example.cat-project.target.cat
     "context": ["thi$"],
     "auto": true,
     "injectcode": false,
-    "id": "scrap_61a5012c-7984-7931-e78c-f803f57aabf0",
+    "id": "scrap_dec14360-6132-3d5b-1aab-753707376b14",
     "$type": "html",
     "numCommands": 3,
     "pkgName": "C:.Users.snirr.workspace.catjs_example.cat-project.target.catjs-github.index.html.setweb"
@@ -701,7 +701,7 @@ _cat.core.declare('C:.Users.snirr.workspace.catjs_example.cat-project.target.cat
     "context": ["thi$"],
     "auto": true,
     "injectcode": false,
-    "id": "scrap_b619c848-9b9c-6331-061f-fabe4342d619",
+    "id": "scrap_875fa142-37a0-a6c3-8d04-f1a3c003d222",
     "$type": "html",
     "numCommands": 3,
     "pkgName": "C:.Users.snirr.workspace.catjs_example.cat-project.target.catjs-github.index.html.slider90"
@@ -804,7 +804,7 @@ _cat.core.declare('C:.Users.snirr.workspace.catjs_example.cat-project.target.cat
     "context": ["thi$"],
     "auto": true,
     "injectcode": false,
-    "id": "scrap_e451c2f3-b713-3c0b-5f9d-1952f3d17c92",
+    "id": "scrap_293590da-672d-45ea-5875-3c105c953e61",
     "$type": "html",
     "numCommands": 2,
     "pkgName": "C:.Users.snirr.workspace.catjs_example.cat-project.target.catjs-github.index.html.clickSignup"
