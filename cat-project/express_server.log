@@ -1,34 +1,60 @@
-2014-06-08T05:57:22.775Z - info: [90mGET / [32m200 [90m4ms - 11.38kb[0m
+2014-07-16T07:38:55.047Z - info: [90mGET / [32m200 [90m3ms - 5.45kb[0m
 
-2014-06-08T05:57:22.838Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m6ms - 216.05kb[0m
+2014-07-16T07:38:55.078Z - info: [90mGET /cat/lib/cat.css [32m200 [90m12ms - 86.47kb[0m
 
-2014-06-08T05:57:22.846Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m1ms - 188.74kb[0m
+2014-07-16T07:38:55.079Z - info: [90mGET /cat/lib/chai.js [32m200 [90m13ms - 150.57kb[0m
 
-2014-06-08T05:57:22.865Z - info: [90mGET /js/jquery.js [32m200 [90m26ms - 266.8kb[0m
+2014-07-16T07:38:55.079Z - info: [90mGET /js/jquery.mobile-1.4.0.min.js [32m200 [90m13ms - 188.74kb[0m
 
-2014-06-08T05:57:22.869Z - info: [90mGET /cat/lib/cat.css [32m200 [90m1ms - 86.47kb[0m
+2014-07-16T07:38:55.080Z - info: [90mGET /cat/lib/jspath.js [32m200 [90m13ms - 12.19kb[0m
 
-2014-06-08T05:57:22.919Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m2ms - 35.74kb[0m
+2014-07-16T07:38:55.080Z - info: [90mGET /css/jquery.mobile-1.4.0.min.css [32m200 [90m17ms - 216.05kb[0m
 
-2014-06-08T05:57:22.968Z - info: [90mGET /cat/lib/cat.js [32m200 [90m86ms - 288.03kb[0m
+2014-07-16T07:38:55.088Z - info: [90mGET /js/jquery.js [32m200 [90m23ms - 266.8kb[0m
 
-2014-06-08T05:57:23.129Z - info: [90mGET /cat/config/cat.json [32m200 [90m1ms - 1.28kb[0m
+2014-07-16T07:38:55.090Z - info: [90mGET /cat/lib/tmr.js [32m200 [90m4ms - 38.22kb[0m
 
-2014-06-08T05:57:23.161Z - info: [90mGET /assert?testName=setUsername&scenario=undefined&message=[CAT]%20Test%20failed,%20exception:%20AssertionError:%20email%20match%20to%20catjs:%20expected%20false%20to%20be%20truthy&error=undefined&status=failure&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=612aaaaf-5066-f03d-0887-ef2353a32870&cache=Sun,%2008%20Jun%202014%2005:57:23%20GMT [32m200 [90m2ms - 166b[0m
+2014-07-16T07:38:55.091Z - info: [90mGET /cat/lib/cat.js [32m200 [90m3ms - 93.63kb[0m
 
-2014-06-08T05:57:23.862Z - info: [90mGET /assert?testName=setEmail&scenario=undefined&message=[CAT]%20Test%20failed,%20exception:%20AssertionError:%20email%20match:%20expected%20false%20to%20be%20truthy&error=undefined&status=failure&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=612aaaaf-5066-f03d-0887-ef2353a32870&cache=Sun,%2008%20Jun%202014%2005:57:23%20GMT [32m200 [90m1ms - 154b[0m
+2014-07-16T07:38:55.108Z - info: [90mGET /cat/lib/cat.src.js [32m200 [90m3ms - 26.7kb[0m
 
-2014-06-08T05:57:25.274Z - info: [90mGET /assert?testName=setPassword&scenario=undefined&message=[CAT]%20Test%20failed,%20exception:%20AssertionError:%20password%20match:%20expected%20false%20to%20be%20truthy&error=undefined&status=failure&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=612aaaaf-5066-f03d-0887-ef2353a32870&cache=Sun,%2008%20Jun%202014%2005:57:23%20GMT [32m200 [90m1ms - 160b[0m
+2014-07-16T07:38:55.268Z - info: [90mGET /cat/config/testdata.json [32m200 [90m1ms - 152b[0m
 
-2014-06-08T05:57:25.305Z - info: [90mGET /assert?testName=setRepeatPassword&scenario=undefined&message=[CAT]%20Test%20failed,%20exception:%20AssertionError:%20repeat%20password%20match:%20expected%20false%20to%20be%20truthy&error=undefined&status=failure&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=612aaaaf-5066-f03d-0887-ef2353a32870&cache=Sun,%2008%20Jun%202014%2005:57:25%20GMT [32m200 [90m0ms - 173b[0m
+2014-07-16T07:38:55.273Z - info: [90mGET /cat/config/cat.json [32m200 [90m1ms - 1.51kb[0m
 
-2014-06-08T05:57:25.387Z - info: [90mGET /assert?testName=setmobileweb&scenario=undefined&message=[CAT]%20Test%20failed,%20exception:%20AssertionError:%20mobileweb%20is%20checked:%20expected%20false%20to%20be%20truthy&error=undefined&status=failure&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=612aaaaf-5066-f03d-0887-ef2353a32870&cache=Sun,%2008%20Jun%202014%2005:57:25%20GMT [32m200 [90m1ms - 167b[0m
+2014-07-16T07:38:55.287Z - info: [90mGET /scraps?scrap=setUsername&testId=fe71dcc6-d7f7-9325-403c-23c3b3ccbe44 [32m200 [90m3ms - 345b[0m
 
-2014-06-08T05:57:25.460Z - info: [90mGET /assert?testName=setweb&scenario=undefined&message=[CAT]%20Test%20failed,%20exception:%20AssertionError:%20web%20is%20checked:%20expected%20false%20to%20be%20truthy&error=undefined&status=failure&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=612aaaaf-5066-f03d-0887-ef2353a32870&cache=Sun,%2008%20Jun%202014%2005:57:25%20GMT [32m200 [90m1ms - 155b[0m
+2014-07-16T07:38:55.290Z - info: [90mGET /scraps?scrap=setEmail&testId=fe71dcc6-d7f7-9325-403c-23c3b3ccbe44 [32m200 [90m6ms - 339b[0m
 
-2014-06-08T05:57:25.624Z - info: [90mGET /assert?testName=slider90&scenario=undefined&message=[CAT]%20Test%20failed,%20exception:%20AssertionError:%20slide%20value%20is%2090:%20expected%20false%20to%20be%20truthy&error=undefined&status=failure&reports=console,junit&name=catexample&type=test&hasPhantom=false&id=612aaaaf-5066-f03d-0887-ef2353a32870&cache=Sun,%2008%20Jun%202014%2005:57:25%20GMT [32m200 [90m1ms - 160b[0m
+2014-07-16T07:38:55.292Z - info: [90mGET /scraps?scrap=setPassword&testId=fe71dcc6-d7f7-9325-403c-23c3b3ccbe44 [32m200 [90m5ms - 345b[0m
 
-2014-06-08T05:57:25.713Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m1ms[0m
+2014-07-16T07:38:55.292Z - info: [90mGET /scraps?scrap=setRepeatPassword&testId=fe71dcc6-d7f7-9325-403c-23c3b3ccbe44 [32m200 [90m3ms - 357b[0m
 
-2014-06-08T05:57:28.643Z - info: [90mGET /favicon.ico [33m404 [90m1ms[0m
+2014-07-16T07:38:55.292Z - info: [90mGET /scraps?scrap=setmobileweb&testId=fe71dcc6-d7f7-9325-403c-23c3b3ccbe44 [32m200 [90m3ms - 347b[0m
+
+2014-07-16T07:38:55.293Z - info: [90mGET /scraps?scrap=setweb&testId=fe71dcc6-d7f7-9325-403c-23c3b3ccbe44 [32m200 [90m3ms - 335b[0m
+
+2014-07-16T07:38:55.294Z - info: [90mGET /scraps?scrap=slider90&testId=fe71dcc6-d7f7-9325-403c-23c3b3ccbe44 [32m200 [90m3ms - 339b[0m
+
+2014-07-16T07:38:55.295Z - info: [90mGET /scraps?scrap=clickSignup&testId=fe71dcc6-d7f7-9325-403c-23c3b3ccbe44 [32m200 [90m2ms - 345b[0m
+
+2014-07-16T07:38:55.298Z - info: [90mGET /css/images/ajax-loader.gif [33m404 [90m0ms[0m
+
+2014-07-16T07:38:55.412Z - info: [90mGET /js/jquery.mobile-1.4.0.min.map [33m404 [90m1ms[0m
+
+2014-07-16T07:38:59.362Z - info: [90mGET /assert?testName=setUsername&scenario=undefined&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catjs-github&type=test&hasPhantom=false&id=fe71dcc6-d7f7-9325-403c-23c3b3ccbe44&cache=Wed,%2016%20Jul%202014%2007:38:59%20GMT [32m200 [90m1ms - 82b[0m
+
+2014-07-16T07:39:05.363Z - info: [90mGET /assert?testName=setEmail&scenario=undefined&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catjs-github&type=test&hasPhantom=false&id=fe71dcc6-d7f7-9325-403c-23c3b3ccbe44&cache=Wed,%2016%20Jul%202014%2007:39:05%20GMT [32m200 [90m1ms - 79b[0m
+
+2014-07-16T07:39:11.365Z - info: [90mGET /assert?testName=setPassword&scenario=undefined&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catjs-github&type=test&hasPhantom=false&id=fe71dcc6-d7f7-9325-403c-23c3b3ccbe44&cache=Wed,%2016%20Jul%202014%2007:39:11%20GMT [32m200 [90m0ms - 82b[0m
+
+2014-07-16T07:39:17.367Z - info: [90mGET /assert?testName=setRepeatPassword&scenario=undefined&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catjs-github&type=test&hasPhantom=false&id=fe71dcc6-d7f7-9325-403c-23c3b3ccbe44&cache=Wed,%2016%20Jul%202014%2007:39:17%20GMT [32m200 [90m1ms - 88b[0m
+
+2014-07-16T07:39:23.366Z - info: [90mGET /assert?testName=setmobileweb&scenario=undefined&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catjs-github&type=test&hasPhantom=false&id=fe71dcc6-d7f7-9325-403c-23c3b3ccbe44&cache=Wed,%2016%20Jul%202014%2007:39:23%20GMT [32m200 [90m0ms - 83b[0m
+
+2014-07-16T07:39:29.369Z - info: [90mGET /assert?testName=setweb&scenario=undefined&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catjs-github&type=test&hasPhantom=false&id=fe71dcc6-d7f7-9325-403c-23c3b3ccbe44&cache=Wed,%2016%20Jul%202014%2007:39:29%20GMT [32m200 [90m1ms - 77b[0m
+
+2014-07-16T07:39:35.367Z - info: [90mGET /assert?testName=slider90&scenario=undefined&message=Test%20Passed&error=undefined&status=success&reports=console,junit&name=catjs-github&type=test&hasPhantom=false&id=fe71dcc6-d7f7-9325-403c-23c3b3ccbe44&cache=Wed,%2016%20Jul%202014%2007:39:35%20GMT [32m200 [90m0ms - 79b[0m
+
+2014-07-16T07:39:41.522Z - info: [90mGET /assert?testName=End&scenario=undefined&message=End&error=&status=End&reports=console,junit&name=catjs-github&type=test&hasPhantom=false&id=fe71dcc6-d7f7-9325-403c-23c3b3ccbe44&cache=Wed,%2016%20Jul%202014%2007:39:41%20GMT [32m200 [90m1ms - 62b[0m
 
