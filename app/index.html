@@ -57,7 +57,6 @@
 				@@name setPassword
                 @@embed true
                 @@jqm setText("#password", "123456789");
-                @@assert ok($('#password').val()=='123456789','password match')
             ]@
         -->
         <div>
@@ -70,7 +69,7 @@
 				@@name setRepeatPassword
                 @@embed true
                 @@jqm setText("#repeatpassword", "123456789");
-                @@assert ok($('#repeatpassword').val()=='123456789','repeat password match')
+                @@assert ok($('#repeatpassword').val()==$('#password').val(),'password match')
             ]@
         -->
         <div>

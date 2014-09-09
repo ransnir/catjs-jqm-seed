@@ -16,6 +16,49 @@
         "protocol": "http"
     },
 
+
+    "runner": {
+        "run": {
+            "devices": [
+                {
+                    "type": "localpc",
+
+                    "runner": {
+                        "name": "chrome",
+                        "address": "/"
+
+                    }
+                },
+                {
+                    "type": "localpc",
+
+                    "runner": {
+                        "name": "firefox",
+                        "address": "/"
+
+                    }
+                },
+                {
+                    "type": "android",
+
+                    "id": "all",
+                    "runner": {
+                        "name": "apk"
+
+                    }
+                }
+
+
+            ]
+        },
+        "server": {
+            "host" : "192.168.137.32",
+            "port" : "8089"
+
+        }
+    },
+
+
     "plugins": [
 
     ],
